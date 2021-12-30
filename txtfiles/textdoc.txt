@@ -1,0 +1,4 @@
+This is a list of all the stuff in your garage
+You have 1 objects in your garage
+
+car is 100.0 feet cubed and is in the main location
